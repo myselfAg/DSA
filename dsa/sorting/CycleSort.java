@@ -26,7 +26,6 @@ public class CycleSort {
             } else {
                 i++;
             }
-            System.out.println(Arrays.toString(arr));
         }
 
     }
