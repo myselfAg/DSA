@@ -19,7 +19,7 @@ public class SearchInString {
             } 
         }
 
-        // for (int element : name) {
+        // for (char element : name.toCharArray()) {
         //     if (element == target) {
         //         return element;
         //     }
